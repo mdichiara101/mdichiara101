@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michael J. Dichiara
-- 👀 I’m interested in ... IOS Programming
-- 🌱 I’m currently learning ... Swift/SwiftUI
-- 💞️ I’m looking to collaborate on ... IOS applications
+- 👀 I’m interested in ... Software Development 
+- 🌱 I’m currently learning ... Swift/SwiftUI and Solidity/Web3.js
+- 💞️ I’m looking to collaborate on ... IOS applications or Blockchain based projects
 - 📫 How to reach me ... michaeldichiara3@gmail.com
 
 
